@@ -1,0 +1,178 @@
+body{
+    color: gray;
+    background-color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: 'Merriweather', serif;
+    
+}
+
+
+
+
+.top-container{
+    background-color: #d4f6f7;
+    position: relative;
+    padding: 0;
+    box-sizing: content-box;
+    margin: 0;
+    height: 795px;
+
+}
+
+.intro-container{
+    width: 25%;
+    margin: 30px auto 30px auto ;
+    text-align: center;
+    line-height: 2;
+}
+
+.services{
+    width: 50%;
+    margin: 30px auto 30px auto ;
+    text-align: center;
+    line-height: 2;
+}
+
+.services-need{
+    padding: 20px;
+    text-align: left;
+}
+
+
+.services-want{
+    padding: 20px;
+
+    text-align: left;
+}
+.navigation-bar{
+   height: 100px;
+   
+}
+
+.features{
+    width: 40%;
+    margin: 30px auto 30px auto ;
+    text-align: center;
+    line-height: 2;
+}
+.logo{
+    margin: 30px 100px 30px 100px ;
+    display: inline-block;
+    position: absolute;
+    left: 128px;
+    top: 16px;
+}
+
+.nav-links{
+    
+    position: absolute;
+     left: 900px; 
+    top: 60px;
+    
+     right: 150px;
+}
+
+
+hr {
+    height: 2px;
+    color: lightgrey;
+    width: 10%;
+    border-style: dotted none none;
+    border-width: 8px;
+    margin: 64px auto 50px auto;
+    
+ }
+ 
+ .Main-head{
+    position: relative;
+    top: 80px;
+    left: 0px;
+ }
+
+ h1{
+     color: seagreen;
+     font-size: 85px;
+     font-family: 'Sacramento', cursive;
+ }
+
+ h2{
+     color: rgb(81, 164, 117);
+     font-size: 40px;
+     font-family: 'Montserrat', sans-serif;
+ }
+
+ h3{
+    color: rgb(81, 164, 117);
+    font-size: 22px;
+}
+
+
+
+ li {
+     text-decoration:none;
+     display: inline-block;
+     margin: 0 30px 0 30px;
+ }
+
+.cloud-top{
+    position: absolute;
+    position: absolute;
+    top: 190px;
+    right: 303px;
+}
+.cloud-bottom{
+    position: absolute;
+    top: 366px;
+    right: 1064px;
+}
+
+.Mountain{
+
+
+    position: relative;
+    top: 50px;
+    left: 1px;
+}
+
+.logos{
+
+    padding: 20px;
+    margin: 10px;
+}
+
+
+.footer {
+    height: 100px;
+    background-color: #d4f6f7;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+
+.pencil{
+    width: 20%;
+    height: 20%;
+    float: left;
+}
+
+.computer{
+    width: 20%;
+    height: 20%;
+    float: right;
+}
+
+.button{
+    background-color: rgb(121, 255, 188);
+    height: 38px;
+    width: 205px;
+    padding: 10px;
+    border: none;
+}
+a{
+    color: #17D7A0;
+}
+a:hover{
+    color: skyblue;
+}
